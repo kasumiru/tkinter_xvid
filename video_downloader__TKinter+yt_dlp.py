@@ -20,7 +20,7 @@ except Exception as e:
 
 try:
     from tkinter import *
-    print('ok')
+    print('okkkkkkkkkkkk')
 except Exception as e:
     print(f'EXCEPTION: {e}')
     print('now installing tkinter')
